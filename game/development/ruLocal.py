@@ -1,0 +1,15 @@
+DROUGHT = 'Засуха'
+UNEXPECTED_PROFIT = 'Неожиданная прибыль'
+EPIDEMIC = 'Эпидемия'
+BOUNTIFUL_HARVEST = 'Урожайный год'
+PEASANT_UPRISING = 'Восстание крестьян'
+GENEROUS_MERCHANT = 'Щедрый купец'
+TRADE_BOOM = 'Торговый подъём'
+BORDER_CONFLICT = 'Пограничный конфликт'
+CRAFT_DEVELOPMENT = 'Развитие ремесла'
+POLITICAL_CRISIS  = 'Политический кризис'
+NORTH = "Северное"
+EAST = "Восточное"
+SOUTH = "Южное"
+WEST = "Западное"
+CHRONICLES_FOUR_LANDS = "Хроники Четырёх Земель"
