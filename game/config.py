@@ -1,0 +1,17 @@
+import pygame
+
+WIDTH = 1200
+HEIGHT = 700
+FPS = 60
+
+BACKGROUND = (25, 27, 35)
+PANEL = (39, 42, 53)
+PANEL_LIGHT = (50, 54, 68)
+
+WHITE = (240, 240, 240)
+GRAY = (170, 175, 185)
+
+GOLD = (220, 180, 80)
+GREEN = (80, 170, 100)
+RED = (190, 70, 70)
+BLUE = (70, 120, 190)
