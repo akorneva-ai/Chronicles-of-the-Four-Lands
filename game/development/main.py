@@ -30,9 +30,7 @@ def handle_target_selection(game, event):
         return
 
     if event.type == pygame.MOUSEBUTTONDOWN:
-        print('Клик дошёл до игры')
         target = find_target(game, event.pos)
-        print('Цель найдена', target)
         if target:
             game.commit_action(game.pending_action, target)
 
